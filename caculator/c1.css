@@ -1,0 +1,38 @@
+
+
+
+body{
+   width:100%;
+    height:100vh;
+    display:flex;
+    justify-content: center; 
+    align-items:center;
+    text-align: center;
+
+}
+.calculator{
+    border:4px solid;
+    padding: 20px;
+    border-radius:6px;
+}
+#InputBox{
+    font-size:18px;
+    padding:6px;
+    border:4px solid;
+    font-weight:400;
+
+}
+
+div{
+    padding:5px;
+    font-size: 10px;
+}
+
+button{
+    border-radius:6px;
+    text-align:center;
+    width:50px;
+    background-color: black;
+    color:white;
+    padding:4px;
+}
